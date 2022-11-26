@@ -6,11 +6,51 @@ namespace IterationStatements
     {
         static void Main(string[] args)
         {
-           //will print out 0-14
-            for (int i = 0; i < 15; i++)
+
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"{i}");
+            }
+
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"{i}");
+            }
+
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"{i}");
+            }
+
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"{i}");
+            }
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"{i}");
+            }
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"{i}");
+            }
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"{i}");
+            }
+            for(int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"{i}");
+            }
+            for(int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"{i}");
+            }
+            for(int i = 0; i < 5; i++)
             {
                 Console.WriteLine($"{i}");
             }
         }
+                
     }
 }
